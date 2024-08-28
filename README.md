@@ -1,8 +1,9 @@
 <!-- badges: start -->
-[![](https://img.shields.io/badge/lifecycle-maturing-blue.svg)](https://www.tidyverse.org/lifecycle/#maturing)
+[![DOI](https://img.shields.io/badge/Nat._Commun-10.1038/s41467--024--44761--x-blue)](https://www.nature.com/articles/s41467-024-44761-x)
+[![](https://img.shields.io/badge/lifecycle-stable-green.svg)](https://www.tidyverse.org/lifecycle/#stable)
 [![](https://img.shields.io/badge/license-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![rworkflows](https://github.com/js2264/HiCExperiment/actions/workflows/rworkflows.yml/badge.svg)](https://github.com/js2264/HiCExperiment/actions/workflows/rworkflows.yml)
-[![Documentation](https://github.com/js2264/HiCExperiment/workflows/pkgdown/badge.svg)](https://js2264.github.io/HiCExperiment)
+[![Documentation](https://github.com/js2264/HiCExperiment/actions/workflows/pages/pages-build-deployment/badge.svg)](https://js2264.github.io/HiCExperiment)
 [![OHCA book](https://github.com/js2264/OHCA/actions/workflows/pages/pages-build-deployment/badge.svg)](https://js2264.github.io/OHCA/)
 <a href=http://bioconductor.org/packages/release/bioc/html/HiCExperiment.html><img alt="Static Badge" src="https://img.shields.io/badge/Bioc_(release)-Landing_page-green?link=http%3A%2F%2Fbioconductor.org%2FcheckResults%2Fdevel%2Fbioc-LATEST%2FHiCExperiment%2F"></a>
 <a href=http://bioconductor.org/checkResults/release/bioc-LATEST/HiCExperiment/><img alt="Bioc build (release)" src="https://img.shields.io/badge/dynamic/yaml?url=https%3A%2F%2Fbioconductor.org%2FcheckResults%2Frelease%2Fbioc-LATEST%2FHiCExperiment%2Fraw-results%2Fnebbiolo1%2Fbuildsrc-summary.dcf&query=%24.Status&label=Bioc%20build%20(release)&link=https%3A%2F%2Fbioconductor.org%2FcheckResults%2Frelease%2Fbioc-LATEST%2FHiCExperiment%2F"></a>
