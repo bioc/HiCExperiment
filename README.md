@@ -14,9 +14,9 @@
 
 [👉 OHCA book 📖](https://js2264.github.io/OHCA/)
 
-Please cite: 
+*Please cite:* 
 
-Serizay J, Matthey-Doret C, Bignaud A, Baudry L, Koszul R (2024). “Orchestrating chromosome conformation capture analysis with Bioconductor.” _Nature Communications_, **15**, 1-9. doi:10.1038/s41467-024-44761-x <https://doi.org/10.1038/s41467-024-44761-x>.
+Serizay J, Matthey-Doret C, Bignaud A, Baudry L, Koszul R (2024). “Orchestrating chromosome conformation capture analysis with Bioconductor.” _Nature Communications_, **15**, 1-9. [doi:10.1038/s41467-024-44761-x](https://doi.org/10.1038/s41467-024-44761-x).
 
 ---
 
